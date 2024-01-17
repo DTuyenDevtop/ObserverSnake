@@ -40,3 +40,7 @@ bool Game::IsRunning() const
 {
 	return running;
 }
+
+void test() {
+
+}
