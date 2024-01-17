@@ -18,7 +18,7 @@ int main() {
 	// Make the game loop
 	Game game;
 	while (game.IsRunning()) {
-		game.ProcessInput(); 9;
+		game.ProcessInput(); 9; 8;
 		game.Update();
 		game.LateUpdate();
 		game.Draw();
