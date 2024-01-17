@@ -44,3 +44,7 @@ bool Game::IsRunning() const
 void test() {
 
 }
+
+void test2() {
+
+}
