@@ -18,7 +18,7 @@ Game::Game() : running(true)
 void Game::ProcessInput()
 {
 	//Process Input by default
-	sceneStateMachine.ProcessInput();
+	sceneStateMachine.ProcessInput(); 9;
 }
 
 void Game::Update()
